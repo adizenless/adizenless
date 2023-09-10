@@ -2,7 +2,7 @@
 
 I'm thrilled to have you here. This document serves as a central hub for understanding who I am as a software engineer, the technologies I work with, and the projects I'm passionate about. Whether you're a colleague, collaborator, or just someone interested in software development, I hope you'll find valuable insights here.
 
-Who Am I?
+## Who Am I? <br />
 I'm Adi Igit, a dedicated and creative software engineer with a passion for turning ideas into tangible, elegant solutions. I thrive on the challenges of problem-solving and am constantly exploring new technologies to expand my skill set.
 
 ## What I Bring to the Table
