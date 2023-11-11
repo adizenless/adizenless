@@ -1,6 +1,7 @@
 # Adi's GitHub Profile
 
-## Welcome to my GitHub profile! I'm a passionate developer with a focus on [your areas of expertise, e.g., web development, mobile apps, data science].
+## Welcome to my GitHub profile! 
+### I'm a passionate developer with a focus on web development.
 
 📫 Contact
 Let's connect and collaborate! You can reach me via:
